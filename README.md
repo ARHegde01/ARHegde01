@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=25&pause=1000&color=757CF7&vCenter=true&width=435&lines=Hey!+It's+Been+A+While+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=23&pause=1000&color=F7F7F7&width=435&lines=A+Little+Progress+Each+Day+Adds+Up+To+Big+Results)](https://git.io/typing-svg)
+
+Hi there! I'm Anudeep Hegde, a CompSci student aspiring to become a software developer. On my own, I love learning about NLP's and AI in robotics.
+
+---
 
 <!--
 **ARHegde01/ARHegde01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
