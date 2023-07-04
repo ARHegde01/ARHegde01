@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] --> 
 
 ## Check Out My Work! 
-- Currently, my GitHub is used to showcase my two most memorable projects. Of course, I plan to add more as time goes on :) 
+- Currently, my GitHub is used to showcase my two most memorable projects. Of course, I plan to add more as time goes on :)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARHegde01&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight)
+  
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARHegde01&layout=donut&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
