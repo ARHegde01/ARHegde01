@@ -1,4 +1,4 @@
->  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=23&pause=1000&color=F7F7F7&width=435&lines=A+Little+Progress+Each+Day+Adds+Up+To+Big+Results)](https://git.io/typing-svg)
+>  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=23&pause=1000&color=28A1FF&background=FFFEFE00&width=435&lines=A+Little+Progress+Each+Day+Adds+Up+To+Big+Results)](https://git.io/typing-svg)
 
 ###  _Hi there! I'm Anudeep Hegde, a CompSci student aspiring to become a software developer. On my own, I love learning about NLP's and AI in robotics._
 
