@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ### ⚡️ A Brief Introduction: 
 - 📚 I'm an undergraduate student at UCI studying Computer Science
-- ⚙️ I'm currently teaching myself NLTK, TensorFlow, and PyTorch
+- ⚙️ I'm currently teaching myself TensorFlow, PyTorch, and have a website on the way!
 - 🧑🏻‍💻 Open to starting and collaborating on new projects!
 - 🧳 I love traveling, cooking, working out, and white water rafting!
 - 🐻 Fun Fact: I've volunteered at a bear sanctuary!
