@@ -1,28 +1,32 @@
 >  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=23&pause=1000&color=28A1FF&background=FFFEFE00&width=435&lines=A+Little+Progress+Each+Day+Adds+Up+To+Big+Results)](https://git.io/typing-svg)
 
-###  _Hi there! I'm Anudeep Hegde, a CompSci student aspiring to become a software developer. On my own, I love learning about NLP's and AI in robotics._
+# Hi, I'm Anudeep Hegde 👋
+
+Backend & Applied AI Engineer focused on building applied AI software,
+cloud-native APIs, and production-grade ML systems.
+---
+
+## 🚀 What I Work On
+- 🔧 **Backend Systems**: FastAPI microservices, REST APIs, Docker, CI/CD
+- 🤖 **Applied AI & ML Flows**: Designing end-to-end GenAI pipelines—RAG, embeddings, and LLM-powered automation—for real-world systems.
+- ☁️ **Cloud Platforms**: AWS (SageMaker, Bedrock, Lambda), Azure Functions
+- 📊 **ML Infrastructure**: Model monitoring, drift detection, inference APIs
 
 ---
-<!--
-**ARHegde01/ARHegde01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🧠 Current Role  
+**Software Engineer – Backend & Applied AI @ Capital Group**
+- Build applied AI systems for investment and portfolio operations, integrating ML and reinforcement learning models into production backend services.  
+- Develop scalable APIs and microservices for real-time inference, evaluation, and internal analytics.  
+- Previously as an intern, built a GenAI-powered RAG pipeline for automated test case generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### ⚡️ A Brief Introduction: 
-- 📚 I'm an undergraduate student at UCI studying Computer Science
-- ⚙️ I'm currently teaching myself TensorFlow, PyTorch, and have a website on the way!
-- 🧑🏻‍💻 Open to starting and collaborating on new projects!
-- 🧳 I love traveling, cooking, working out, and white water rafting!
-- 🐻 Fun Fact: I've volunteered at a bear sanctuary!
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, Java, C++, JavaScript, SQL  
+**Frameworks:** FastAPI, PyTorch, TensorFlow, Scikit-learn  
+**Infra:** Docker, GitHub Actions, AWS, Azure  
+**AI/ML:** Reinforcement Learning, RAG, NLP, Model Evaluation & Monitoring  
 
 ---
 ## Let's Connect! 
