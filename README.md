@@ -37,7 +37,6 @@ cloud-native APIs, and production-grade ML systems.
 - Currently, my GitHub is used to showcase my most memorable projects. Of course, I plan to add more as time goes on :)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARHegde01&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight)
   
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARHegde01&layout=donut&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
